@@ -13,7 +13,7 @@ First screen to choose machines to compare:
 
 Second screen to compare machines and submit claim:
 
-<img width="1157" alt="Zrzut ekranu 2023-04-12 155731" src="https://user-images.githubusercontent.com/73952373/231510358-a632e15d-3fb5-4167-8a7e-15f2f0881c85.png">
+<img width="757" alt="Zrzut ekranu 2023-04-12 155731" src="https://user-images.githubusercontent.com/73952373/231510358-a632e15d-3fb5-4167-8a7e-15f2f0881c85.png">
 
 
 Success screen:
@@ -25,11 +25,11 @@ Success screen:
 
 Machine procurement, list of claims:
 
-<img width="1146" alt="Zrzut ekranu 2023-04-12 162014" src="https://user-images.githubusercontent.com/73952373/231510647-e9b1778a-46f8-41ae-920d-d216e9bd9c3b.png">
+<img width="757" alt="Zrzut ekranu 2023-04-12 162014" src="https://user-images.githubusercontent.com/73952373/231510647-e9b1778a-46f8-41ae-920d-d216e9bd9c3b.png">
 
 View of single order:
 
-<img width="1157" alt="Zrzut ekranu 2023-04-12 162034" src="https://user-images.githubusercontent.com/73952373/231510841-ceaaf798-5bd2-4b44-888b-196b5d2ad6fe.png">
+<img width="757" alt="Zrzut ekranu 2023-04-12 162034" src="https://user-images.githubusercontent.com/73952373/231510841-ceaaf798-5bd2-4b44-888b-196b5d2ad6fe.png">
 
 
 
